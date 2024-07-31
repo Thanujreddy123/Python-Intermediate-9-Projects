@@ -1,0 +1,1 @@
+In this class we created a coffee machien but wiht th classes and attributes and methods

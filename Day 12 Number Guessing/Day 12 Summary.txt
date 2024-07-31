@@ -1,0 +1,1 @@
+In this I created the number guessing game and giving hints based on the type

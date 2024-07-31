@@ -1,0 +1,3 @@
+I have learn how to import from and import
+how to import the class and module
+and how to use the turtle and forwards pendown and penup and screen module and class
